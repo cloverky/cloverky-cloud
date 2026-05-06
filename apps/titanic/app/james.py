@@ -1,4 +1,4 @@
-from walter import walter
+from walter import Walter
 
 class james:
     def __init__(self):
@@ -6,5 +6,5 @@ class james:
 
 if __name__ == "__main__":
     print("제임스가 메인이다.")
-    w = walter()
+    w = Walter()
     w.get_data()

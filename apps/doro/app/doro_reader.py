@@ -1,9 +1,9 @@
 import pandas as pd
 
-class Walter:
+class DoroReader:
     def __init__(self):
         pass
 
     def get_data(self):
-        df = pd.read_csv("titanic-Dataset.csv")
+        df = pd.read_csv("doro.csv" , encoding="cp949")
         print(df.head(10))
