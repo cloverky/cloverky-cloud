@@ -11,8 +11,7 @@ class James:
     def get_data(self):
         w = Walter()
         return w.get_data()
-        
-
+    
 
 
 

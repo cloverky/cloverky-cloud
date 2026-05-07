@@ -7,4 +7,4 @@ class DoroDirector:
 if __name__ == "__main__":
     print("도로디렉터가 메인이다.")
     d = DoroReader()
-    d.get_data()
+    d.get_data() 
