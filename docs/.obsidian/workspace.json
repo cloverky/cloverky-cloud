@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "0d7cd19380d8b088",
+    "type": "split",
+    "children": [
+      {
+        "id": "46256c4edef9c11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb99abb2beaa5a4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22b1e07d39ae1439",
+    "type": "split",
+    "children": [
+      {
+        "id": "ead91dfdeb3f8ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55b8e547db7fc0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "1ef61c99f00b575d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#프로젝트",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "d7b5d780297275e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4560721e1fbd801",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ac219523596355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac3036d5982a5ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5월수업/소스코드 (= 프로그래밍 언어).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "소스코드 (= 프로그래밍 언어) 의 백링크"
+            }
+          },
+          {
+            "id": "edecc269d1dea377",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5월수업/소스코드 (= 프로그래밍 언어).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "소스코드 (= 프로그래밍 언어) 의 나가는 링크"
+            }
+          },
+          {
+            "id": "0534482cbcbb5d61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "4b7b6520450fc261",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "4a8dd82c0eca10bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          },
+          {
+            "id": "1b2573dacac93ac0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:그래프 뷰 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "eb99abb2beaa5a4d",
+  "lastOpenFiles": [
+    "무제",
+    "5월수업/note.md",
+    "5월수업/FastAPI + Unicorn 설치 & 실행.md",
+    "5월수업/소스코드 (= 프로그래밍 언어).md",
+    "image.png",
+    "타이타닉개발/260507_타이타닉.md",
+    "타이타닉개발/260507_127.0.0.1_8000data.md",
+    "타이타닉개발",
+    "Pasted image 20260507131617.png",
+    "Pasted image 20260507131503.png",
+    "무제 1.base",
+    "무제.base",
+    "무제.canvas",
+    "프리지개발/260506_fridge_UI.md",
+    "프리지개발/260506_fridge_simple.md",
+    "Pasted image 20260507114255.png",
+    "Pasted image 20260507114251.png",
+    "화면 캡처 2026-05-07 114429.png",
+    "화면 캡처 2026-05-07 114333.png",
+    "프리지개발/260506_fridge_project_plan.md",
+    "환영합니다!.md",
+    "create a link.md",
+    "프리지개발/260506_fridge_a.md",
+    "5월수업",
+    "새 폴더",
+    "프리지개발/프리지간단설명.txt",
+    "260506_fridge_project_plan.md",
+    "프리지개발"
+  ]
+}
